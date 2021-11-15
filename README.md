@@ -1,4 +1,4 @@
-# Hey I'm Zac :australia:
+# Hey I'm Zac ![Australia Flag](https://github.githubassets.com/images/icons/emoji/unicode/1f1e6-1f1fa.png?v8)
 
 [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/HobbaZ)](https://github.com/HobbaZ/HobbaZ/commits)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/HobbaZ)](https://github.com/HobbaZ/HobbaZ/branches)
