@@ -1,10 +1,10 @@
-# Hey I'm Zac
+# Hey I'm Zac :australia:
 
-[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/commits)
-[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/branches)
+[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/HobbaZ)](https://github.com/HobbaZ/HobbaZ/commits)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/HobbaZ)](https://github.com/HobbaZ/HobbaZ/branches)
 [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
-![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/README-template)
-![GitHub search hit counter](https://img.shields.io/github/search/HobbaZ/README-template/hits)
+![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/HobbaZ)
+![GitHub search hit counter](https://img.shields.io/github/search/HobbaZ/HobbaZ/hits)
 
 ## The Before Times
 
@@ -16,4 +16,4 @@ Fortunately I came to my senses and decided I needed some structure to my 'learn
 
 ## Contact Me
 
-I'm currently interested in dynamically created content and procedurally generated content, shoot me an  [email](zachobba@gmail.com) if you want to chat or hit me up on [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
+I'm currently interested in dynamically created content and procedurally generated content, shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
