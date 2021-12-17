@@ -11,7 +11,7 @@
 
 <h2 align = "center">My Coding Beginnings</h2>
 
-I've attempted to learn coding on and off for a few years, starting with Unity game engine in highschool, then a bit of basic web dev in Notepad at university, before moving on to a 10 year old Python textbook and a 20 year old Javascript textbook that I discovered in an op-shop. I found I could make the things I wanted to make, but they were buggy, disorganised and held together with the coding equivalent of ducktape and hotwired with hopes, dreams and lots of youtube tutorials (and they're all on Github for your viewing pleasure), somehow they compile, and what's even more horrifying is that they mostly work. 
+I've attempted to learn coding on and off for a few years, starting with Unity game engine in highschool, then a bit of basic web dev in Notepad at university, before moving on to a 10 year old Python textbook and a 20 year old Javascript textbook that I discovered in an op-shop. I found I could make the things I wanted to make, but they were buggy, disorganised and were taped together with hope and lots of youtube tutorials (and they're all on Github for your viewing pleasure), somehow they compile, and what's even more horrifying is that they mostly work. 
 
 <h2 align = "center">Coding Bootcamp</h2>
 
