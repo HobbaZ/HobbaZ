@@ -2,7 +2,6 @@
 
 <p align= "center">
 <img src='https://img.shields.io/github/last-commit/HobbaZ/HobbaZ'>
-<img src='https://img.shields.io/github/commit-activity/w/HobbaZ/HobbaZ'>
 <img src='https://img.shields.io/github/followers/HobbaZ.svg'>
 </p>
 
