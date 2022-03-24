@@ -9,11 +9,11 @@
 
 <h2 align = "center">Coding Bootcamp</h2>
 
-I'm currently enrolled in a 6 month full stack web developer bootcamp run in partnership with the University of Sydney/Trilogy and I expect to finish in Feb 2022. We learn the basics all the way up to React.  
+I've recently completed a 6 month intensive full stack web developer bootcamp run in partnership with the University of Sydney/Trilogy. The course taught us the basics of HTML and CSS all the way through to more advanced topics as web security, React, JS and utilising NPM packages. Using my knew found skillls, I've created a few projects, which you can checkout [here](https://zachobbawebdev.herokuapp.com/), you can also check out my current project I'm working on [here](https://worthly.herokuapp.com/)
 
 <h2 align = "center">Interests</h2>
 I'm interested in dynamically and procedurally created content and would like to eventually learn about AI/ML and possibly AR/VR tech.
 
 <h2 align = "center">Contact Me</h2>
 
-I'm currently interested in dynamically created content and procedurally generated content, shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
+I'm interested in dynamically created content and procedurally generated content, shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
