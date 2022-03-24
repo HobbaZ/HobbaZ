@@ -16,4 +16,4 @@ I'm interested in dynamically and procedurally created content and would like to
 
 <h2 align = "center">Contact Me</h2>
 
-I'm interested in dynamically created content and procedurally generated content, shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
+Shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
