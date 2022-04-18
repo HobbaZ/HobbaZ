@@ -6,7 +6,7 @@
 <img src='https://img.shields.io/github/followers/HobbaZ.svg'>
 </p>
 
-<p align = "center">HTML | CSS | JS | MySQL | Node | Various NPM modules | Bootstrap | HTML | APIs | React</p>
+<p align = "center">HTML | CSS | JS | MySQL | NoSQL | MERN stack | Node | Various NPM modules | APIs | React</p>
 
 <h2 align = "center">Coding Bootcamp</h2>
 
