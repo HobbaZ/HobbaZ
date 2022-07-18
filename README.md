@@ -1,11 +1,12 @@
-<h1 align = "center"> Hey, I'm Zac. I've recently moved closer to Sydney in search of a more stable Internet connection and more viable job prospects. Currently on the look out for a junior or intern developer position.</h1>
+<h1 align = "center"> Hey, I'm Zac,</h1>
+<p>I've recently moved closer to Sydney in search of a more stable Internet connection and more viable job prospects. Currently on the look out for a junior or intern developer position.</p>
 
 <p align= "center">
 <img src='https://img.shields.io/github/last-commit/HobbaZ/HobbaZ'>
 <img src='https://img.shields.io/github/followers/HobbaZ.svg'>
 </p>
 
-<p align = "center">HTML | CSS | JS | MySQL | Node | Various NPM modules | Bootstrap | HTML | APIs | React</p>
+<p align = "center">HTML | CSS | JS | MySQL | NoSQL | MERN stack | Node | Various NPM modules | APIs | React</p>
 
 <h2 align = "center">Coding Bootcamp</h2>
 
