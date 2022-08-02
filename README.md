@@ -14,6 +14,9 @@ In February 2022 I completed a 6 month 240 hour full stack web developer bootcam
 <h2 align = "center">Interests</h2>
 I'm interested in dynamically and procedurally created content and would like to eventually learn about AI/ML and AR/VR tech.
 
+<h2 align = "center">My Stats</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HobbaZ)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align = "center">Contact Me</h2>
 
 Shoot me an 📧 [email](zachobba@gmail.com) if you want to chat or hit me up on 💼 [LinkedIn](https://www.linkedin.com/in/zachary-hobba-52aaa182/) for any business prospects.
