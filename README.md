@@ -39,7 +39,7 @@ I'm interested in dynamically and procedurally created content and would like to
 <h2><details align="center">
     <summary>Contact Me</summary>
     <span><a href="https://www.linkedin.com/in/zachary-hobba-52aaa182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn icon" width="40" height="40"/>My LinkedIn</a>  |  
-<a align="center" href="https://www.buymeacoffee.com/zacHobbaS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="180"></a>  |  
+<a align="center" href="https://www.buymeacoffee.com/zacHobbaS" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="180"></a>  |  
 <img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Envelope icon" width="40" height="40"/> zachobba@gmail.com
       
 </span>
