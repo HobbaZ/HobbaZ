@@ -1,5 +1,5 @@
 <h1 align = "center"> Hey, I'm Zac,</h1>
-<p>I've recently moved closer to Sydney in search of a more stable Internet connection and more viable job prospects. Currently on the look out for a junior or intern developer position.</p>
+<p>I've recently moved closer to Sydney in search of a more stable Internet connection and more viable job prospects. Currently working as a ServiceNow trainee until mid 2023</p>
 
 <p align= "center">
 <img src='https://img.shields.io/github/last-commit/HobbaZ/HobbaZ'>
