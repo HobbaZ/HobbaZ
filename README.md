@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zac,</h2>
 
-<h1 align="center"> I've recently moved closer to Sydney in search of a more stable Internet connection and more viable job prospects. Currently working as a ServiceNow trainee.</h1>
+<h1 align="center"> I'm currently working as a volunteer software developer.</h1>
 
 <p align="center">
 <img src='https://img.shields.io/github/followers/HobbaZ.svg'>
